@@ -1,5 +1,5 @@
 -- Cleansed DIM_Products Table --
-SELECT 
+SELECT
   p.[ProductKey], 
   p.[ProductAlternateKey] AS ProductItemCode, 
   --      ,[ProductSubcategoryKey], 
